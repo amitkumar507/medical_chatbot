@@ -1,1 +1,1 @@
-# medical_chatbot
+# AI-Driven Resume Intelligence System (Autonomous ATS)
